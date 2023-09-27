@@ -6,7 +6,7 @@
 name: 홍진욱
 
 # Short bio or description (displayed in the header)
-description: 부산대학교 정보컴퓨터공학부
+description: 부산대학교 정보컴퓨터공학부(재학중)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -20,12 +20,12 @@ timezone: Asia/Seoul
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hju927@naver.com
   facebook:
   flickr:
-  github:
+  github: https://github.com/JinukHong/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/%EC%A7%84%EC%9A%B1-%ED%99%8D-462146220/
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
